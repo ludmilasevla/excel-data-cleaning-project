@@ -1,4 +1,4 @@
-# Projeto de Limpeza e Transformação de Dados no Excel
+## Projeto de Limpeza e Transformação de Dados no Excel
 
 ### 🚀 Descrição
 Este projeto foi desenvolvido com o objetivo de praticar técnicas de limpeza, organização e transformação de dados utilizando o Microsoft Excel.
@@ -54,9 +54,10 @@ Processo de limpeza e transformação dos dados realizado no Excel.
 
 ### Estrutura do projeto
 ```bash
-excel-data-cleaning/
+excel-data-cleaning-project/
 │
-├── data_cleaning.xlsx
+├── raw_data.xlsx
+├── cleaned_data.xlsx
 ├── demo.png
 ├── README.md
 └── .gitignore
