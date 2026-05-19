@@ -90,9 +90,9 @@ Ludmila Alves Moreira
 
 💻 Estudante de Tecnologia
 
-🔗 Linkedin: linkedin.com/in/ludmilasevla
+🔗 Linkedin: [linkedin.com/in/ludmilasevla](https://linkedin.com/in/ludmilasevla)
 
-🔗 Github: github.com/ludmilasevla
+🔗 Github: [github.com/ludmilasevla](https://github.com/ludmilasevla)
 
 Este projeto faz parte da minha jornada de aprendizado na área de tecnologia e análise de dados.
 Durante o desenvolvimento, pratiquei conceitos essenciais de Data Cleaning e manipulação de planilhas, fortalecendo habilidades importantes para preparação de dados e processos analíticos.
